@@ -20,6 +20,7 @@
 		<Item Name="chess_stateinfo_cluster.ctl" Type="VI" URL="../chess_stateinfo_cluster.ctl"/>
 		<Item Name="chess_states_enum.ctl" Type="VI" URL="../chess_states_enum.ctl"/>
 		<Item Name="chess_teamcolor_enum.ctl" Type="VI" URL="../chess_teamcolor_enum.ctl"/>
+		<Item Name="coord_to_str.vi" Type="VI" URL="../coord_to_str.vi"/>
 		<Item Name="coordinate_locator.vi" Type="VI" URL="../coordinate_locator.vi"/>
 		<Item Name="fill_board.vi" Type="VI" URL="../fill_board.vi"/>
 		<Item Name="gen_logstring.vi" Type="VI" URL="../gen_logstring.vi"/>
