@@ -11,14 +11,19 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="best_score_ind.vi" Type="VI" URL="../best_score_ind.vi"/>
+		<Item Name="board_stepcompare.vi" Type="VI" URL="../board_stepcompare.vi"/>
 		<Item Name="chess_fsm.vi" Type="VI" URL="../chess_fsm.vi"/>
+		<Item Name="chess_moveinfo_cluster.ctl" Type="VI" URL="../chess_moveinfo_cluster.ctl"/>
 		<Item Name="chess_piecetype_enum.ctl" Type="VI" URL="../chess_piecetype_enum.ctl"/>
+		<Item Name="chess_poschangeinfo_cluster.ctl" Type="VI" URL="../chess_poschangeinfo_cluster.ctl"/>
 		<Item Name="chess_posstate_cluster.ctl" Type="VI" URL="../chess_posstate_cluster.ctl"/>
 		<Item Name="chess_stateinfo_cluster.ctl" Type="VI" URL="../chess_stateinfo_cluster.ctl"/>
 		<Item Name="chess_states_enum.ctl" Type="VI" URL="../chess_states_enum.ctl"/>
 		<Item Name="chess_teamcolor_enum.ctl" Type="VI" URL="../chess_teamcolor_enum.ctl"/>
 		<Item Name="coordinate_locator.vi" Type="VI" URL="../coordinate_locator.vi"/>
 		<Item Name="fill_board.vi" Type="VI" URL="../fill_board.vi"/>
+		<Item Name="gen_logstring.vi" Type="VI" URL="../gen_logstring.vi"/>
+		<Item Name="step_moves.vi" Type="VI" URL="../step_moves.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Calculate Frames per Second.vi" Type="VI" URL="/&lt;vilib&gt;/vision/Calculate Frames per Second.vi"/>
